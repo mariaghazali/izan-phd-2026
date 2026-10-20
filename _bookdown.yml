@@ -1,0 +1,9 @@
+name: "Статистика"
+  navbar:
+  title: "Статистика"
+  left:
+  - text: "Start"
+  href: index.html
+  - text: "L1"
+  href: L1.html
+  
